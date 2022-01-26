@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vts374
 - 👀 I’m interested in doing real life projects
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently into Frontend development skilled in HTML CSS and JS.
 - 💞️ I’m looking to collaborate on group projrcts
 - 📫 How to reach me : mishraalok99340@gmail.com
 
