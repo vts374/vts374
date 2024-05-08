@@ -81,7 +81,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vts374&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vts374&layout=donut)](https://github.com/vts374/github-readme-stats)
 
 </td></tr></table>  
 
