@@ -67,7 +67,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
+<a href="https://golang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="GoLang" height="25" /></a>  
 </div>  
+
 
 <br/>  
 
@@ -82,6 +84,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vts374&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
 
 <br/>  
 
